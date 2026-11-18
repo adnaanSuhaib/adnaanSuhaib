@@ -1,5 +1,3 @@
-# Adnaan Suhaib
-
 Self-taught designer and final-year Computer Science student at IIUM, specializing in Data Science.
 I design things, then build them.
 
