@@ -1,4 +1,16 @@
-## Hi there 👋
+# Adnaan Suhaib
+
+Self-taught designer and final-year Computer Science student at IIUM, specializing in Data Science.
+I design things, then build them.
+
+- **Front end:** HTML, CSS, JavaScript, Webflow
+- **Also:** Python and Java, mostly for AI/ML and uni work
+- **Final year project:** UnTune, real-time music removal for live audio (Silver, FYP Innovatex 2026)
+- **For fun:** small games in Godot for game jams → [hyqk.itch.io](https://hyqk.itch.io/)
+
+Slow, steady progress, one commit at a time.
+
+[LinkedIn](https://www.linkedin.com/in/adnaan-suhaib/) · adnaansuhaib@gmail.com
 
 <!--
 **adnaanSuhaib/adnaanSuhaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
